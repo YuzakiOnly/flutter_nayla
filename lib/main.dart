@@ -25,7 +25,7 @@ import 'package:flutter_slicing/widget/icon.dart';
 import 'package:flutter_slicing/widget/row.dart';
 import 'package:flutter_slicing/widget/scaffolds.dart';
 import 'package:flutter_slicing/widget/texts.dart';
-
+// 
 void main() {
   runApp(const MyApp());
 }
