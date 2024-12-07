@@ -1,6 +1,6 @@
 # flutter_slicing
 
-A new Flutter project.
+PUNYA NAYLA
 
 ## Getting Started
 
